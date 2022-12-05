@@ -1,0 +1,27 @@
+#about_us{
+    padding: 100px 0;
+    background-image: url(./asset/image/background\ unklab.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+#about_us h2{
+    font-weight: 600;
+    font-size: 48px;
+    color: rgb(66, 49, 144);
+    text-shadow: 3px 3px 15px rgba(0,0,0,0.7);
+}
+#about_us p{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+.box_tulisan{
+    height: 60vh;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 40px;
+}
+.box_tulisan{
+    overflow: scroll;
+}
